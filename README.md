@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=6C63FF&center=true&vCenter=true&lines=Développeur+Full-Stack+JS;React+%7C+Node.js+%7C+Express;Concepteur+Développeur+d'Applications;Toujours+en+train+d'apprendre+🚀" />
 </p>
 
-<h3 align="center">Ayant consolidé un socle technique complet sur l'écosystème JavaScript (React, TypeScript, Node.js) ainsi
-que sur la gestion de données (SQL/NoSQL), je souhaite aujourd'hui rejoindre une équipe technique
-pluridisciplinaire. Mon ambition est de collaborer avec des experts variés (Frontend, Backend, DevOps,
-Architecture) afin de développer une vision systémique des projets.</h3>
 <h3 align="center">📍 Paris — En formation <b>Concepteur Développeur d'Applications </b> @ O'Clock</h3>
 
 ---
