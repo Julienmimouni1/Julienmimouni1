@@ -233,29 +233,16 @@
 
 
 ---
-
 <!-- DNA -->
 <h1 align="center">Mon ADN de développeur 🧬</h1>
 
 <p align="center">
-  <b>Ancien profil RH</b> évoluant en tant que développeur full-stack.<br/>
-  Je lis un organigramme aussi vite qu'un schéma de base de données.<br/>
-  Et je pense que les meilleures APIs sont conçues comme de bonnes politiques RH : <b>claires, prévisibles, documentées</b>.
+  Avant le code, j'ai travaillé plusieurs années dans les <b>Ressources Humaines</b> au sein de grandes entreprises (L'Oréal, Groupe Rocher).<br/>
+  J'y ai développé une vraie rigueur dans la <b>gestion de projets</b>, le suivi du développement des compétences de collaborateurs,<br/>
+  et une sensibilité forte aux enjeux de <b>Diversité, Équité & Inclusion</b>.<br/><br/>
+  Cette expérience humaine et transversale nourrit aujourd'hui ma façon de concevoir des applications :<br/>
+  <b>accessibles, pensées pour l'utilisateur, et documentées avec soin.</b>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Paris%2C%20Île--de--France-📍-6c63ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/O'Clock%20CDA-Bac%2B4-6c63ff?style=for-the-badge&logo=graduation-cap" />
-  <img src="https://img.shields.io/badge/Stage%20dispo-Mai%202026-success?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Langues-FR%20%7C%20EN%20%7C%20ES-6c63ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/No--Code-Make%20%26%20n8n-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Méthodo-Scrum%20%7C%20UML%20%7C%20BPMN-6c63ff?style=for-the-badge" />
-</p>
-
----
 
 <!-- Contact -->
 <h1 align="center">On travaille ensemble ? 🤝</h1>
