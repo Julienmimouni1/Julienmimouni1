@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=6C63FF&center=true&vCenter=true&lines=Développeur+Full-Stack+JS;React+%7C+Node.js+%7C+Express;Concepteur+Développeur+d'Applications;Toujours+en+train+d'apprendre+🚀" />
 </p>
 
-<h3 align="center">📍 Paris — En formation <b>Concepteur Développeur d'Applications </b> @ O'Clock</h3>
+<h3 align="center">📍 Paris — En formation <b> Concepteur Développeur d'Applications </b> @ O'Clock</h3>
 
 ---
 
@@ -60,11 +60,11 @@
           </a>
         </p>
         <p align="center">
-          Architecture <b>microservices</b>, frontend Svelte, backend Node.js.
+          Architecture <b>MVC</b>, frontend Svelte, backend Node.js.
         </p>
         <details>
           <summary><b>Stack 📝</b></summary>
-          JavaScript · Svelte · Node.js · HTML · CSS · Architecture microservices
+          JavaScript · Svelte · Node.js · HTML · CSS · 
         </details>
       </td>
     </tr>
@@ -228,7 +228,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=🎾+Passionné+de+tennis+depuis+toujours...;🎭+Sur+scène+sans+filet+avec+le+théâtre+d'impro...;📈+Obsédé+par+les+marchés+financiers...;💻+...et+développeur+full-stack+le+reste+du+temps." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=🎾+Passionné+de+tennis...;🎭+Sur+scène+sans+filet+avec+le+théâtre+d'impro...;📈+Obsédé+par+les+marchés+financiers...;💻+...et+développeur+full-stack+le+reste+du+temps." />
 </p>
 
 
