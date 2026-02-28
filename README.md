@@ -36,8 +36,13 @@
     <tr>
       <td width="50%">
         <h3 align="center">
-          <a href="https://github.com/Julienmimouni1" target="_blank">🛒 Cloza BMAD — Marketplace B2B</a>
+          <a href="https://github.com/Julienmimouni1" target="_blank">🛒 Marketplace B2B</a>
         </h3>
+        <p align="center">
+          <a href="https://github.com/Julienmimouni1" target="_blank">
+            <img src="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=400&q=80" alt="marketplace" width="100%"/>
+          </a>
+        </p>
         <p align="center">
           Plateforme B2B avec intégration <b>Shopify</b>, authentification <b>JWT</b>, gestion des rôles vendeur/acheteur.
         </p>
@@ -48,10 +53,15 @@
       </td>
       <td width="50%">
         <h3 align="center">
-          <a href="https://github.com/Julienmimouni1" target="_blank">🔴 Pokédex — App Full-Stack</a>
+          <a href="https://github.com/Julienmimouni1" target="_blank">🔴 Pokédex App</a>
         </h3>
         <p align="center">
-          Application Pokédex avec architecture <b>microservices</b>, frontend Svelte et backend Node.js.
+          <a href="https://github.com/Julienmimouni1" target="_blank">
+            <img src="https://images.unsplash.com/photo-1613771404784-3a5686aa2be3?w=400&q=80" alt="pokedex" width="100%"/>
+          </a>
+        </p>
+        <p align="center">
+          Architecture <b>microservices</b>, frontend Svelte, backend Node.js.
         </p>
         <details>
           <summary><b>Stack 📝</b></summary>
@@ -59,8 +69,45 @@
         </details>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <a href="https://github.com/Julienmimouni1" target="_blank">🧠 Training Management System</a>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/Julienmimouni1" target="_blank">
+            <img src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=400&q=80" alt="tms" width="100%"/>
+          </a>
+        </p>
+        <p align="center">
+          Issu de mon expérience RH — outil de gestion du plan de développement des compétences.
+        </p>
+        <details>
+          <summary><b>Stack 📝</b></summary>
+          React · TypeScript · Node.js · PostgreSQL · Prisma
+        </details>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <a href="https://github.com/Julienmimouni1" target="_blank">🤖 Outil d'introspection IA</a>
+        </h3>
+        <p align="center">
+          <a href="https://github.com/Julienmimouni1" target="_blank">
+            <img src="https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=400&q=80" alt="ia" width="100%"/>
+          </a>
+        </p>
+        <p align="center">
+          Application d'introspection assistée par l'IA — conversationnel et analyse de profil.
+        </p>
+        <details>
+          <summary><b>Stack 📝</b></summary>
+          Node.js · API OpenAI · Express · NoSQL
+        </details>
+      </td>
+    </tr>
   </table>
 </div>
+
 
 ---
 
