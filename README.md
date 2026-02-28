@@ -173,31 +173,94 @@
 </p>
 
 ---
+---
 
-<!-- GitHub Stats -->
-<h1 align="center">Mes stats GitHub 📊</h1>
+<!-- About me -->
+<h1 align="center">Qui suis-je vraiment ? 🎭</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julienmimouni1&show_icons=true&theme=tokyonight&locale=fr" alt="stats" />
+  <i>Développeur le jour, improvisateur la nuit, analyste en permanence.</i>
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <h2>🎾</h2>
+        <h3>Tennis</h3>
+        <p>
+          Sur un court, chaque point est un algorithme :<br/>
+          <b>lire l'adversaire</b>, adapter la stratégie, exécuter.<br/>
+          <i>Le backhand, c'est mon débogage favori.</i>
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <h2>🎭</h2>
+        <h3>Théâtre d'improvisation</h3>
+        <p>
+          Pas de script. Pas de plan B. Juste <b>écouter, réagir, créer</b>.<br/>
+          Le meilleur entraînement pour les daily stand-up Scrum et les code reviews imprévus.
+        </p>
+      </td>
+      <td width="33%" align="center">
+        <h2>📈</h2>
+        <h3>Bourse & Finance</h3>
+        <p>
+          Les marchés, c'est de la data en temps réel :<br/>
+          <b>analyser les signaux</b>, tester des hypothèses, accepter l'incertitude.<br/>
+          <i>En gros, du machine learning pour le portefeuille.</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<!-- DNA -->
+<h1 align="center">Mon ADN de développeur 🧬</h1>
+
+<p align="center">
+  <b>Ancien profil RH</b> reconverti en développeur full-stack.<br/>
+  Je lis un organigramme aussi vite qu'un schéma de base de données.<br/>
+  Et je pense que les meilleures APIs sont conçues comme de bonnes politiques RH : <b>claires, prévisibles, documentées</b>.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julienmimouni1&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img src="https://img.shields.io/badge/Paris%2C%20Île--de--France-📍-6c63ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/O'Clock%20CDA-Bac%2B4-6c63ff?style=for-the-badge&logo=graduation-cap" />
+  <img src="https://img.shields.io/badge/Stage%20dispo-Mai%202026-success?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julienmimouni1&theme=tokyonight" alt="streak" />
+  <img src="https://img.shields.io/badge/Langues-FR%20%7C%20EN%20%7C%20ES-6c63ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/No--Code-Make%20%26%20n8n-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Méthodo-Scrum%20%7C%20UML%20%7C%20BPMN-6c63ff?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- Citation -->
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Contact -->
+<h1 align="center">On travaille ensemble ? 🤝</h1>
 
----
+<h3 align="center">Je suis disponible pour un stage non rémunéré du 18 mai au 6 juillet 2026.</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+  <a href="mailto:julien.mimouni@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-julien.mimouni@hotmail.com-6c63ff?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/votre-profil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Julien_Mimouni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="center">💬 "Le code propre n'est pas écrit pour la machine, mais pour les humains qui liront après toi."</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+</p>
+
+<p align="center">
+  <i>"Le code que tu écris aujourd'hui, quelqu'un le lira demain. Écris-le pour lui."</i>
+</p>
+
