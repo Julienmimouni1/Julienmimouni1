@@ -8,8 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=6C63FF&center=true&vCenter=true&lines=Développeur+Full-Stack+JS;React+%7C+Node.js+%7C+Express;Concepteur+Développeur+d'Applications;Toujours+en+train+d'apprendre+🚀" />
 </p>
 
-<h3 align="center">🧠 Passionné par les architectures web robustes, les API REST et la clean code.</h3>
-<h3 align="center">📍 Paris — En formation <b>CDA</b> @ O'Clock Genève</h3>
+<h3 align="center">Ayant consolidé un socle technique complet sur l'écosystème JavaScript (React, TypeScript, Node.js) ainsi
+que sur la gestion de données (SQL/NoSQL), je souhaite aujourd'hui rejoindre une équipe technique
+pluridisciplinaire. Mon ambition est de collaborer avec des experts variés (Frontend, Backend, DevOps,
+Architecture) afin de développer une vision systémique des projets.</h3>
+<h3 align="center">📍 Paris — En formation <b>Concepteur Développeur d'Applications </b> @ O'Clock</h3>
 
 ---
 
@@ -175,45 +178,63 @@
 ---
 ---
 
-<!-- About me -->
-<h1 align="center">Qui suis-je vraiment ? 🎭</h1>
+---
 
-<p align="center">
-  <i>Développeur le jour, improvisateur la nuit, analyste en permanence.</i>
-</p>
+<!-- Passions -->
+<h1 align="center">En dehors du code... 🌍</h1>
 
 <div align="center">
   <table>
     <tr>
-      <td width="33%" align="center">
-        <h2>🎾</h2>
-        <h3>Tennis</h3>
-        <p>
-          Sur un court, chaque point est un algorithme :<br/>
-          <b>lire l'adversaire</b>, adapter la stratégie, exécuter.<br/>
-          <i>Le backhand, c'est mon débogage favori.</i>
-        </p>
+      <!-- TENNIS -->
+      <td width="33%" align="center" valign="top">
+        <img
+          src="https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?w=400&q=80&fit=crop"
+          alt="Tennis"
+          width="100%"
+          style="border-radius: 12px;"
+        />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/🎾-Tennis-4CAF50?style=for-the-badge&labelColor=2e7d32" />
+        <br/>
+        <sub><i>Court, raquette, jeu set et match.</i></sub>
       </td>
-      <td width="33%" align="center">
-        <h2>🎭</h2>
-        <h3>Théâtre d'improvisation</h3>
-        <p>
-          Pas de script. Pas de plan B. Juste <b>écouter, réagir, créer</b>.<br/>
-          Le meilleur entraînement pour les daily stand-up Scrum et les code reviews imprévus.
-        </p>
+      <!-- THÉÂTRE -->
+      <td width="33%" align="center" valign="top">
+        <img
+          src="https://images.unsplash.com/photo-1503095396549-807759245b35?w=400&q=80&fit=crop"
+          alt="Théâtre d'improvisation"
+          width="100%"
+          style="border-radius: 12px;"
+        />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/🎭-Théâtre_d'impro-9C27B0?style=for-the-badge&labelColor=6a1b9a" />
+        <br/>
+        <sub><i>Aucun script. Juste l'instant.</i></sub>
       </td>
-      <td width="33%" align="center">
-        <h2>📈</h2>
-        <h3>Bourse & Finance</h3>
-        <p>
-          Les marchés, c'est de la data en temps réel :<br/>
-          <b>analyser les signaux</b>, tester des hypothèses, accepter l'incertitude.<br/>
-          <i>En gros, du machine learning pour le portefeuille.</i>
-        </p>
+      <!-- BOURSE -->
+      <td width="33%" align="center" valign="top">
+        <img
+          src="https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400&q=80&fit=crop"
+          alt="Bourse"
+          width="100%"
+          style="border-radius: 12px;"
+        />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/📈-Bourse-FF9800?style=for-the-badge&labelColor=e65100" />
+        <br/>
+        <sub><i>Les marchés ne dorment jamais.</i></sub>
       </td>
     </tr>
   </table>
 </div>
+
+<br/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=600&lines=🎾+Passionné+de+tennis+depuis+toujours...;🎭+Sur+scène+sans+filet+avec+le+théâtre+d'impro...;📈+Obsédé+par+les+marchés+financiers...;💻+...et+développeur+full-stack+le+reste+du+temps." />
+</p>
+
 
 ---
 
@@ -221,7 +242,7 @@
 <h1 align="center">Mon ADN de développeur 🧬</h1>
 
 <p align="center">
-  <b>Ancien profil RH</b> reconverti en développeur full-stack.<br/>
+  <b>Ancien profil RH</b> évoluant en tant que développeur full-stack.<br/>
   Je lis un organigramme aussi vite qu'un schéma de base de données.<br/>
   Et je pense que les meilleures APIs sont conçues comme de bonnes politiques RH : <b>claires, prévisibles, documentées</b>.
 </p>
