@@ -122,9 +122,7 @@
   <a href="https://vercel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="50" height="50"/>
   </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="50" height="50"/>
-  </a>
+  
 </p>
 
 ---
