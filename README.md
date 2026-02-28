@@ -5,7 +5,8 @@
 <h1 align="center">Salut, je suis Julien Mimouni 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=2500&color=6C63FF&center=true&vCenter=true&lines=Développeur+Full-Stack+JS;React+%7C+Node.js+%7C+Express;Concepteur+Développeur+d'Applications;Toujours+en+train+d'apprendre+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&color=6C63FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack+JS;React+%7C+Node.js+%7C+Express;Concepteur+D%C3%A9veloppeur+d%27Applications;Toujours+en+train+d%27apprendre+%F0%9F%9A%80" />
+
 </p>
 
 <h3 align="center">📍 Paris — En formation <b> Concepteur Développeur d'Applications </b> @ O'Clock</h3>
