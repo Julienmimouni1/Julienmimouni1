@@ -248,7 +248,6 @@
 <!-- Contact -->
 <h1 align="center">On travaille ensemble ? 🤝</h1>
 
-<h3 align="center">Je suis disponible pour un stage non rémunéré du 18 mai au 6 juillet 2026.</h3>
 
 <p align="center">
   <a href="mailto:julien.mimouni@hotmail.com">
