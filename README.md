@@ -194,7 +194,7 @@
         <br/><br/>
         <img src="https://img.shields.io/badge/🎾-Tennis-4CAF50?style=for-the-badge&labelColor=2e7d32" />
         <br/>
-        <sub><i>Court, raquette, jeu set et match.</i></sub>
+        <sub><i>Jeu, set et match.</i></sub>
       </td>
       <!-- THÉÂTRE -->
       <td width="33%" align="center" valign="top">
@@ -207,7 +207,7 @@
         <br/><br/>
         <img src="https://img.shields.io/badge/🎭-Théâtre_d'impro-9C27B0?style=for-the-badge&labelColor=6a1b9a" />
         <br/>
-        <sub><i>Aucun script. Juste l'instant.</i></sub>
+        <sub><i>Juste l'instant. On y cultive la joie. </i></sub>
       </td>
       <!-- BOURSE -->
       <td width="33%" align="center" valign="top">
@@ -220,7 +220,7 @@
         <br/><br/>
         <img src="https://img.shields.io/badge/📈-Bourse-FF9800?style=for-the-badge&labelColor=e65100" />
         <br/>
-        <sub><i>Les marchés ne dorment jamais.</i></sub>
+        <sub><i>L'argent ça va, ça vient mais quand ça vient, ça va.</i></sub>
       </td>
     </tr>
   </table>
@@ -242,7 +242,7 @@
   J'y ai développé une vraie rigueur dans la <b>gestion de projets</b>, le suivi du développement des compétences de collaborateurs,<br/>
   et une sensibilité forte aux enjeux de <b>Diversité, Équité & Inclusion</b>.<br/><br/>
   Cette expérience humaine et transversale nourrit aujourd'hui ma façon de concevoir des applications :<br/>
-  <b>accessibles, pensées pour l'utilisateur, et documentées avec soin.</b>
+  <b>accessibles, pensées pour l'utilisateur et documentées avec soin.</b>
 </p>
 
 <!-- Contact -->
